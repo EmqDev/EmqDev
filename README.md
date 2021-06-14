@@ -1,4 +1,4 @@
-<img  align="center" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Programador" /> 
+<div align="center"> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Programador" /> </div>
 
 
 <h1 align="center">Hi 👋, I'm Esteban</h1>

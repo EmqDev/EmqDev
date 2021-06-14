@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif
 
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">On the way to being a full stack developer</h3>

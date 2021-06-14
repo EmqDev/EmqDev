@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">On the way to being a full stack developer</h3>
+<h3 align="center">🎯 On the way to being a full stack developer</h3>
 
 <h3 align="center">📫 How to reach me q.estebanmarcelo@gmail.com </h3>
 

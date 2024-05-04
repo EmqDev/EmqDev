@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/es-AR/view/programmer-gif-19019116"  />
+<img align="right" height="150" src="https://cmsudi.udelistmo.edu/sites/default/files/styles/large_webp/public/2022-05/mejores-lenguajes-de-programacion.png.webp?itok=-Pw17iPt"  />
 
 ###
 
@@ -44,5 +44,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Estebamq /Estebamq /output/snake.svg" alt="Snake animation" />
 
 ###
